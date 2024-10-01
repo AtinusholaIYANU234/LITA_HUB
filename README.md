@@ -1,2 +1,4 @@
 # LITA_HUB
-This is where i want to document my data analysis class with Incubator Hub
+## LITA_CLASS DOCUMENTATION
+### LITA_CLASS DOCUMENTATION
+#### LITA_CLASS DOCUMENTATION
