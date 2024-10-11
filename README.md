@@ -9,10 +9,13 @@ This project would give an insight into how oil was discovered in Nigeria, when,
 The primary source of data used in this research work was generated from different online sources, from those who have worked on similar research topics as mine, Newspapers and also from daily news report on television.
 
 ### Tools Used
+```
 - Microsoft Word [Download Here](https://www.microsoft.com)
     - For Typing and Editing
 - Chrome
     - For browsing
 - Powerpoint
+
+  
     - For Visualisation
 
