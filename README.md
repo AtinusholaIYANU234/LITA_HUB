@@ -1,4 +1,3 @@
-# LITA_HUB
-## LITA_CLASS DOCUMENTATION
-### LITA_CLASS DOCUMENTATION
-#### LITA_CLASS DOCUMENTATION
+# LITA_Class_Documentation
+
+### Prject Title: E Commerce Sales Analysis
